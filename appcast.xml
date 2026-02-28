@@ -2,19 +2,27 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Veil Updates</title>
-    <description>Veil — Privacy-first meeting recorder</description>
+    <link>https://raw.githubusercontent.com/KarmaFounder/veil-releases/main/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1</title>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <pubDate>Fri, 27 Feb 2026 21:18:09 +0200</pubDate>
+      <title>Veil 1.0.2</title>
+      <description><![CDATA[
+        <ul>
+          <li>Fix: Notch disappears when connecting external monitor</li>
+          <li>Notch auto-repositions on screen configuration changes</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 28 Feb 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/KarmaFounder/veil-releases/releases/download/v1.0.1/Veil-1.0.1.dmg"
-        sparkle:edSignature="WntRpJVYX32s7JS1eUblIrigIxwMFh59Hwj2sFwFLuMkT13dZOl3afhwjKZ8OzV2Uo3PocfPH+RDatWNFgaZCA=="
-        length="265387717"
-        type="application/octet-stream"/>
+        url="https://github.com/KarmaFounder/veil-releases/releases/download/v1.0.2/Veil-1.0.2.dmg"
+        sparkle:version="5"
+        sparkle:shortVersionString="1.0.2"
+        sparkle:edSignature="1AzrIlVMPotAqVCyj1t2rFvRmSuY7/lydIBRaiK1wXVI2NBAm7sBmt/MO8yhkcBAQTew9ZkYnI5OOeilGTAVDQ=="
+        length="267542237"
+        type="application/octet-stream"
+      />
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
 </rss>

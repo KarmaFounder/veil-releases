@@ -3,12 +3,23 @@
     <channel>
         <title>Veil</title>
         <item>
-            <title>3.0.8</title>
-            <pubDate>Tue, 04 Mar 2026 16:30:00 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>3.0.8</sparkle:shortVersionString>
+            <title>3.0.9</title>
+            <pubDate>Wed, 04 Mar 2026 17:58:42 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>3.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.0.8/Veil-3.0.8.dmg" length="269683314" type="application/octet-stream" sparkle:edSignature="HGHyUIc8LDwP87IM6eNgrYmIypebqz8LvMseVAC/Zh3sdmOTx+kHbLQMww5jYAg5WF+X4mpmSRAFOEz9K36iDg=="/>
+            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.0.9/Veil-3.0.9.dmg" length="278485450" type="application/octet-stream" sparkle:edSignature="gQtMiw4G6S0/3sLQu6CvCPcD2r6k2cLOj2SlxVzsBXjg3YRYrimUQ4QXNwDfR0ollx8BWHlW3ZxPbFw94PBzBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.0.9/Veil9-4.delta" sparkle:deltaFrom="4" length="1854442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="8rgpmAF6mWAh2oDT2JE4kLer340Bg4N8QtsAaSAMbzNAcWSufWTkg248Bvu7PPLU8Uav14560rUROOQ4hqKDDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>3.0.0</title>
+            <pubDate>Sun, 01 Mar 2026 20:53:20 +0200</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.0.9/Veil-3.0.0.dmg" length="278475655" type="application/octet-stream" sparkle:edSignature="Ti5JWg3SodG5DURkdo5qCEtyUWCPXh+3yeRsEE1IsQ0LvODL6Yr/RcSWn8DI/Gd1SjFH4/HZ7Q+xYhPWPRvqAw=="/>
         </item>
     </channel>
 </rss>

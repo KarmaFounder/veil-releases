@@ -3,12 +3,23 @@
     <channel>
         <title>Veil</title>
         <item>
+            <title>3.3.0</title>
+            <pubDate>Sun, 29 Mar 2026 11:45:12 +0200</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.3.0/Veil-3.3.0.dmg" length="321665938" type="application/octet-stream" sparkle:edSignature="hffX3j4s9Nw3X43TyBbimm+vKvBe8TqCx6eISn3fI3cXpn6CvkvHTET/XDFetxNF5bjzupbbutb+E21fomTeBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.3.0/Veil16-15.delta" sparkle:deltaFrom="15" length="1847114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="LWN79amk4SUakcqqrqPKjeDA2Dih7RdyvakFWDcaOmxOAWSpK/ve+qeyGWRI8NwDjvIwOIKcDOu9bx1pNdfYBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>3.2.0</title>
             <pubDate>Sun, 15 Mar 2026 17:59:12 +0200</pubDate>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>3.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.2.0/Veil-3.2.0.dmg" length="321603942" type="application/octet-stream" sparkle:edSignature="iVNAoR+ZGwwzcRrvNlI8zybtOvX/u+OiI4+9n22oBOUeeGuo+wMjGq4WLpvrTYNMzyh5VGhbNlUlm2FeZ4LVBg=="/>
+            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.3.0/Veil-3.2.0.dmg" length="321603942" type="application/octet-stream" sparkle:edSignature="iVNAoR+ZGwwzcRrvNlI8zybtOvX/u+OiI4+9n22oBOUeeGuo+wMjGq4WLpvrTYNMzyh5VGhbNlUlm2FeZ4LVBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.2.0/Veil15-14.delta" sparkle:deltaFrom="14" length="33894026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ltM5odHFM/jtxINLbMB4vkU06eW5uuA8+O/iK6f9hytMy5zV9C3Ve8wgvJWwmlLBfOhF20aQFAsJikTOEijcAw=="/>
                 <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.2.0/Veil15-13.delta" sparkle:deltaFrom="13" length="33915630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="Zv24TI2Mb0k+KjxH/IBvCLlRKDXRuitpOE4XEelUwp7emkCY/pIQY3Agc0Ne4bQfvNNC7dI/4zzvAD7kahpbAA=="/>
@@ -24,20 +35,6 @@
             <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.2.0/Veil-3.1.1.dmg" length="279053210" type="application/octet-stream" sparkle:edSignature="G6HxlYD4eGqfzHME2YWYe0jb6KEacMvnKDUceNkxiM6dJkgNLFyb69OaRbQdzhCl4/QN+XGqqa0pDRfIU6oICg=="/>
-        </item>
-        <item>
-            <title>3.1.0</title>
-            <pubDate>Fri, 06 Mar 2026 00:49:24 +0200</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.2.0/Veil-3.1.0.dmg" length="279050740" type="application/octet-stream" sparkle:edSignature="Zh4wD9ZbUOVjbj9mhzQXifLVtIs7cX+0Izs/u7MZMFuUd25Nc4uqX2v6i3X35wyfiiQvwehPD4EJadsozF8GCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.1.0/Veil13-11.delta" sparkle:deltaFrom="11" length="2922578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="xvg46ZA3NxQiF5U70Ce8ElYu1HV8y6rPaBkW9+Lpii7X/wghc8TYdgsPJpvwSH5Y9OIQuAo3GeVb1I8QcF5sCA=="/>
-                <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.1.0/Veil13-10.delta" sparkle:deltaFrom="10" length="2977194" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="ZMFNN2rbU4cxbCAOrNMe7bdjNiZo/l4NfbMidp6PSelgPdO1KplSy7C0dTjbPGJ59535sXiRQOCCNi074TDJDg=="/>
-                <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.1.0/Veil13-9.delta" sparkle:deltaFrom="9" length="2969690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="EBIf8IDRSjVyUCQQQb3uLME7j5grLVwK9Sa9ZB7uEyJRoFVIsIadANHMPJJNwg5lDUT/dvXdoWC7koy74l/ZCw=="/>
-                <enclosure url="https://github.com/helloveil/veil-releases/releases/download/v3.1.0/Veil13-4.delta" sparkle:deltaFrom="4" length="3017586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="862304" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,en" sparkle:edSignature="MV2GT8bHEd6cfB0GLZWvrHYjBMfINJl6l5NwXiY077UsoHQs02pDbYpz/YmbvAxwyM7ASlqc28FJexMm6Dx/Bg=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
